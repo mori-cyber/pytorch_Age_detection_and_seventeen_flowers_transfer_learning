@@ -1,0 +1,10 @@
+itorch
+torchvision
+os
+wandb
+tqdm
+cv2
+pandas
+matplotlib.pyplot
+numpy
+sklearn.model_selection
